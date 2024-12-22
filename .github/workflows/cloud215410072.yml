@@ -30,4 +30,4 @@ jobs:
 
       # Step 4: Push Docker Image ke Docker Hub
       - name: Push Docker Image
-        run: docker push fransis96/bonus_profile:latest
+        run: docker push fransis96/tesAction
